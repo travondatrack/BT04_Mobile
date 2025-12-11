@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BT_SQLite</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="add_notes">Thêm Notes</string>
+    <string name="enter_note_hint">Nhập tên Note</string>
+    <string name="cancel">Hủy</string>
+    <string name="add">Thêm</string>
+    <string name="update_notes">CẬP NHẬT NOTES</string>
+    <string name="update">Cập nhật</string>
+</resources>

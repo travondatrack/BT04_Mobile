@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Explicitly declare IDs to ensure R contains them when resource merging has issues -->
+    <item type="id" name="listView1" />
+    <item type="id" name="fabAdd" />
+    <item type="id" name="textGreeting" />
+</resources>
+
